@@ -1,7 +1,44 @@
 <<<<<<< HEAD
 # PalmMapBot
 
-PalmMapBot is a graduation project for **automatic palm tree detection, mapping, and tree-ID assignment**.
+PalmMapBot is a graduation project for MSA UNI **automatic palm tree detection, mapping, and tree-ID assignment**.
+
+## Project Structure
+
+palmmapbot/
+│
+├── backend/                    # Core system logic
+│   ├── tree_manager.py         # Tree database manager
+│   ├── tree_mapper.py          # SLAM + GPS tree localization
+│   ├── mission_controller.py   # Mission control logic
+│   ├── navigation_manager.py   # Robot navigation interface
+│   ├── coverage_planner.py     # Farm coverage path planner
+│   ├── robot_state.py          # Robot state manager
+│   └── controller_instance.py  # Shared controller instance
+│
+├── detection/                  # AI detection system
+│   ├── detect_tree.py
+│   ├── trigger_and_assign.py
+│   └── train_yolo.py
+│
+├── dashboard/                  # Web dashboard
+│   └── app.py
+│
+├── models/                     # Trained AI models
+│   └── palm_tree_detector.pt
+│
+├── data/                       # SQLite database
+│   └── palms.db
+│
+├── docs/                       # Documentation
+│
+├── create_db.py                # Database initialization
+├── generate_tree_map.py        # Map generator
+├── export_geojson.py           # GIS export
+│
+├── test_*.py                   # System tests
+│
+└── README.md
 
 The system is designed to work first as a **software pipeline** and later as a **robotic field system** using:
 
@@ -20,6 +57,67 @@ The main idea is:
 5. assign or reuse a unique tree ID
 6. store everything in a SQLite database
 7. export the result as a GIS map
+
+## Quick Start
+
+Clone the repository
+
+git clone https://github.com/omarkhedr522-netizen/palmmapbot.git
+cd palmmapbot
+
+Create environment
+
+python -m venv palm_env
+palm_env\Scripts\activate
+pip install -r requirements.txt
+
+Create database
+
+python create_db.py
+
+Run dashboard
+
+python dashboard/app.py
+
+Open in browser
+
+http://127.0.0.1:5000
+
+## System Capabilities
+
+PalmMapBot currently supports:
+
+YOLO palm tree detection
+
+Tree ID assignment using GPS
+
+Tree mapping with SLAM + GPS
+
+Automatic farm coverage planning
+
+Mission control system
+
+Web dashboard for control and monitoring
+
+GeoJSON export for GIS systems
+
+Hardware-ready ROS2 architecture
+
+## Future Work
+
+Planned upgrades:
+
+Real ROS2 navigation integration
+
+Live camera detection pipeline
+
+Obstacle avoidance
+
+Tree health classification
+
+Autonomous farm boundary detection
+
+Multi-robot farm surveying
 
 ---
 
@@ -73,6 +171,189 @@ This allows viewing results in:
 - QGIS
 - ArcGIS
 - web GIS systems
+
+---
+
+# Mission Control System
+
+PalmMapBot includes a **Mission Controller** responsible for coordinating robot operations.
+
+The mission controller manages:
+
+- mission lifecycle
+- robot state
+- navigation
+- tree mapping
+- return-to-home behavior
+
+Mission states:
+
+
+idle → starting → surveying → returning_home → completed
+
+
+Mission flow:
+
+1. Start mission
+2. Save home position
+3. Follow survey waypoints
+4. Detect palm trees
+5. Map tree GPS locations
+6. Store detections in database
+7. Return robot to home position
+8. End mission
+
+The controller is implemented in:
+
+
+backend/mission_controller.py
+
+
+---
+
+# Web Dashboard Access
+
+The PalmMapBot dashboard allows monitoring and controlling missions.
+
+Start the dashboard:
+
+
+python dashboard/app.py
+
+
+Open locally:
+
+
+http://127.0.0.1:5000
+
+
+To access from another device on the same network:
+
+
+app.run(host="0.0.0.0", port=5000)
+
+
+Find your computer IP:
+
+
+ipconfig
+
+
+Example:
+
+
+IPv4 Address: 192.168.1.24
+
+
+Open dashboard from another device:
+
+
+http://192.168.1.24:5000
+
+
+---
+
+# Tree Map Export
+
+PalmMapBot can export tree data for GIS software.
+
+Export GeoJSON:
+
+
+python export_geojson.py
+
+
+Output file:
+
+
+output/palm_trees.geojson
+
+
+Compatible with:
+
+- QGIS
+- ArcGIS
+- Leaflet
+- Google Earth
+
+---
+
+# Project Development Workflow
+
+Clone repository:
+
+
+git clone https://github.com/
+<your-username>/palmmapbot.git
+
+
+Activate environment:
+
+
+python -m venv palm_env
+palm_env\Scripts\activate
+
+
+Install dependencies:
+
+
+pip install ultralytics flask
+
+
+Push updates:
+
+
+git add .
+git commit -m "update"
+git push
+
+
+Pull updates on another machine:
+
+
+git pull
+
+
+---
+
+# Hardware Integration (Future Deployment)
+
+PalmMapBot is designed to run on a **UGV with ROS2**.
+
+Expected hardware stack:
+
+Robot computer:
+
+
+Raspberry Pi 5
+or
+NVIDIA Jetson
+
+
+Sensors:
+
+
+Camera
+GPS module
+LiDAR sensor
+IMU
+
+
+Software stack:
+
+
+ROS2
+SLAM
+Nav2 navigation
+PalmMapBot detection system
+
+
+Mission control will communicate with ROS2 nodes to:
+
+- send navigation commands
+- receive robot pose
+- receive sensor data
+- trigger palm detection
 
 ---
 
