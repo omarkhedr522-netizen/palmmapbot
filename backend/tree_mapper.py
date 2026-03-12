@@ -1,3 +1,7 @@
+# backend/tree_mapper.py
+# Converts SLAM/local robot pose + GPS anchor into estimated tree coordinates,
+# then passes them to TreeManager for storage and ID assignment.
+
 import math
 from backend.tree_manager import TreeManager
 

@@ -1,3 +1,7 @@
+# create_db.py
+# Creates the SQLite database schema for PalmMapBot.
+# Tables: missions, trees, detections.
+
 import sqlite3
 import os
 

@@ -1,3 +1,7 @@
+# detection/trigger_and_assign.py
+# End-to-end software test:
+# image -> YOLO detection -> pose/GPS -> TreeMapper -> TreeManager -> SQLite
+
 import sys
 import os
 

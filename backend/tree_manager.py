@@ -1,3 +1,7 @@
+# backend/tree_manager.py
+# Handles tree association, tree ID creation, and detection logging.
+# Tree identity is based on spatial proximity.
+
 import sqlite3
 import math
 from datetime import datetime

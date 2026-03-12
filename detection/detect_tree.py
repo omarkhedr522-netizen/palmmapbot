@@ -1,3 +1,6 @@
+# detection/detect_tree.py
+# Loads the trained YOLO model and returns whether a palm tree is detected.
+
 from ultralytics import YOLO
 
 class TreeDetector:
