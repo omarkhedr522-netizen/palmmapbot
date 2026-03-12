@@ -1,0 +1,335 @@
+Date ID,Date Type,Quality,Colour,Size,Price (per kg)
+KD3001,Sukkari,Medium,Golden Brown,Medium,15SR
+KD3002,Sukkari,High,Dark Brown,Medium,15SR
+KD3003,Sukkari,High,Golden Brown,Medium,15SR
+KD3004,Sukkari,Low,Dark Brown,Small,15SR
+KD3005,Sukkari,Low,Dark Brown,Large,15SR
+KD3006,Sukkari,Medium,Golden Brown,Medium,15SR
+KD3007,Sukkari,Medium,Golden Brown,Medium,15SR
+KD3008,Sukkari,High,Golden Brown,Medium,15SR
+KD3009,Sukkari,High,Golden Brown,Medium,15SR
+KD3010,Sukkari,Medium,Dark Brown,Large,15SR
+KD3011,Sukkari,Medium,Dark Brown,Small,15SR
+KD3012,Sukkari,Medium,Dark Brown,Medium,15SR
+KD3013,Sukkari,High,Golden Brown,Medium,15SR
+KD3014,Sukkari,High,Golden Brown,Medium,15SR
+KD3015,Sukkari,Medium,Dark Brown,Large,15SR
+KD3016,Sukkari,High,Golden Brown,Medium,15SR
+KD3017,Sukkari,High,Golden Brown,Medium,15SR
+KD3018,Sukkari,Medium,Dark Brown,Large,15SR
+KD3019,Sukkari,Medium,Golden Brown,Medium,15SR
+KD3020,Sukkari,Low,Golden Brown,Large,15SR
+KD3021,Sukkari,Low,Dark Brown,Large,15SR
+KD3022,Sukkari,Medium,Golden Brown,Small,15SR
+KD3023,Sukkari,High,Golden Brown,Large,15SR
+KD3024,Sukkari,High,Golden Brown,Medium,15SR
+KD3025,Sukkari,Medium,Golden Brown,Large,15SR
+KD3026,Sukkari,Low,Golden Brown,Large,15SR
+KD3027,Sukkari,Low,Dark Brown,Large,15SR
+KD3028,Sukkari,Medium,Dark Brown,Medium,15SR
+KD3029,Sukkari,High,Golden Brown,Medium,15SR
+KD3030,Sukkari,Medium,Dark Brown,Large,15SR
+KD3031,Sukkari,Low,Golden Brown,Large,15SR
+KD3032,Sukkari,Medium,Dark Brown,Medium,15SR
+KD3033,Sukkari,Medium,Dark Brown,Small,15SR
+KD3034,Sukkari,Medium,Dark Brown,Large,15SR
+KD3035,Sukkari,Medium,Golden Brown,Small,15SR
+KD3036,Sukkari,Low,Golden Brown,Large,15SR
+KD3037,Sukkari,Medium,Dark Brown,Large,15SR
+KD3038,Sukkari,Low,Golden Brown,Medium,15SR
+KD3039,Sukkari,High,Golden Brown,Medium,15SR
+KD3040,Sukkari,High,Golden Brown,Medium,15SR
+JD2001,Ajwa,Medium,Black,Medium,20SR
+JD2002,Ajwa,Medium,Black,Small,20SR
+JD2003,Ajwa,Medium,Black,Medium,20SR
+JD2004,Ajwa,Medium,Black,Medium,20SR
+JD2005,Ajwa,High,Black,Medium,20SR
+JD2006,Ajwa,Low,Black,Medium,20SR
+JD2007,Ajwa,Medium,Black,Medium,20SR
+JD2008,Ajwa,Medium,Black,Medium,20SR
+JD2009,Ajwa,Low,Black,Medium,20SR
+JD2010,Ajwa,Medium,Black,Large,20SR
+JD2011,Ajwa,Medium,Black,Large,20SR
+JD2012,Ajwa,Medium,Black,Medium,20SR
+JD2013,Ajwa,Medium,Black,Medium,20SR
+JD2014,Ajwa,Medium,Black,Medium,20SR
+JD2015,Ajwa,Medium,Black,Medium,20SR
+JD2016,Ajwa,Medium,Black,Medium,20SR
+JD2017,Ajwa,Medium,Black,Medium,20SR
+JD2018,Ajwa,Medium,Black,Small,20SR
+JD2019,Ajwa,Medium,Black,Medium,20SR
+JD2020,Ajwa,Medium,Black,Medium,20SR
+JD2021,Ajwa,Medium,Black,Medium,20SR
+JD2022,Ajwa,Medium,Black,Medium,20SR
+JD2023,Ajwa,Medium,Black,Medium,20SR
+JD2024,Ajwa,Medium,Black,Medium,20SR
+JD2025,Ajwa,Medium,Black,Medium,20SR
+JD2026,Ajwa,Medium,Black,Medium,20SR
+JD2027,Ajwa,Medium,Black,Large,20SR
+JD2028,Ajwa,Medium,Black,Medium,20SR
+JD2029,Ajwa,Medium,Black,Medium,20SR
+JD2030,Ajwa,Medium,Black,Medium,20SR
+JD2031,Ajwa,Medium,Black,Large,20SR
+JD2032,Ajwa,Medium,Black,Medium,20SR
+JD2033,Ajwa,Medium,Black,Medium,20SR
+JD2034,Ajwa,Medium,Black,Medium,20SR
+JD2035,Ajwa,Low,Black,Large,20SR
+JD2036,Ajwa,Low,Black,Medium,20SR
+JD2037,Ajwa,Medium,Black,Medium,20SR
+JD2038,Ajwa,Medium,Black,Medium,20SR
+JD2039,Ajwa,Medium,Black,Medium,20SR
+JD2040,Ajwa,High,Black,Large,20SR
+JD2041,Ajwa,Medium,Black,Medium,20SR
+BD4001,Barhi,Medium,Golden,Medium,10SR
+BD4002,Barhi,Low,Golden,Medium,10SR
+BD4003,Barhi,Low,Golden,Medium,10SR
+BD4004,Barhi,Medium,Golden,Medium,10SR
+BD4005,Barhi,Medium,Golden,Medium,10SR
+BD4006,Barhi,Medium,Golden,Small,10SR
+BD4007,Barhi,Medium,Brown,Medium,10SR
+BD4008,Barhi,Medium,Brown,Medium,10SR
+BD4009,Barhi,Medium,Brown,Medium,10SR
+BD4010,Barhi,Low,Brown,Medium,10SR
+BD4011,Barhi,Low,Brown,Medium,10SR
+BD4012,Barhi,Medium,Brown,Small,10SR
+BD4013,Barhi,Medium,Brown,Medium,10SR
+BD4014,Barhi,Medium,Golden,Medium,10SR
+BD4015,Barhi,High,Golden,Small,10SR
+BD4016,Barhi,High,Golden,Medium,10SR
+BD4017,Barhi,Medium,Golden,Small,10SR
+BD4018,Barhi,Low,Golden,Medium,10SR
+BD4019,Barhi,Low,Golden,Medium,10SR
+BD4020,Barhi,Low,Golden,Small,10SR
+BD4021,Barhi,Low,Golden,Small,10SR
+BD4022,Barhi,Low,Golden,Small,10SR
+BD4023,Barhi,Medium,Golden,Medium,10SR
+BD4024,Barhi,Medium,Golden,Small,10SR
+BD4025,Barhi,Medium,Golden,Medium,10SR
+BD4026,Barhi,Low,Golden,Medium,10SR
+BD4027,Barhi,Medium,Golden,Medium,10SR
+BD4028,Barhi,Low,Golden,Medium,10SR
+BD4029,Barhi,Medium,Golden,Medium,10SR
+BD4030,Barhi,Low,Golden,Medium,10SR
+BD4031,Barhi,Low,Golden,Medium,10SR
+BD4032,Barhi,Medium,Golden,Medium,10SR
+BD4033,Barhi,Low,Golden,Medium,10SR
+BD4034,Barhi,Low,Golden,Medium,10SR
+BD4035,Barhi,Low,Golden,Medium,10SR
+BD4036,Barhi,Low,Golden,Big,10SR
+BD4037,Barhi,Medium,Golden,Big,10SR
+BD4038,Barhi,Medium,Golden,Medium,10SR
+BD4039,Barhi,Medium,Golden,Small,10SR
+BD4040,Barhi,Low,Brown,Big,10SR
+AD1001,Amber,Medium,Dark Brown,Large,45SR
+AD1002,Amber,Medium,Dark Brown,Large,45SR
+AD1003,Amber,Medium,Dark Brown,Large,45SR
+AD1004,Amber,Medium,Dark Brown,Large,45SR
+AD1005,Amber,Medium,Dark Brown,Large,45SR
+AD1006,Amber,Medium,Dark Brown,Large,45SR
+AD1007,Amber,Medium,Dark Brown,Large,45SR
+AD1008,Amber,Medium,Dark Brown,Large,45SR
+AD1009,Amber,Medium,Dark Brown,Large,45SR
+AD1010,Amber,Medium,Dark Brown,Large,45SR
+AD1011,Amber,Medium,Dark Brown,Large,45SR
+AD1012,Amber,Medium,Dark Brown,Large,45SR
+AD1013,Amber,Medium,Dark Brown,Large,45SR
+AD1014,Amber,Medium,Dark Brown,Large,45SR
+AD1015,Amber,Medium,Dark Brown,Large,45SR
+AD1016,Amber,Medium,Dark Brown,Large,45SR
+AD1017,Amber,Medium,Dark Brown,Large,45SR
+AD1018,Amber,Medium,Dark Brown,Large,45SR
+AD1019,Amber,Medium,Dark Brown,Large,45SR
+AD1020,Amber,Medium,Dark Brown,Large,45SR
+AD1021,Amber,Medium,Dark Brown,Large,45SR
+AD1022,Amber,Medium,Dark Brown,Large,45SR
+AD1023,Amber,Medium,Dark Brown,Large,45SR
+AD1024,Amber,Medium,Dark Brown,Large,45SR
+AD1025,Amber,Medium,Dark Brown,Large,45SR
+AD1026,Amber,Medium,Dark Brown,Large,45SR
+AD1027,Amber,Medium,Dark Brown,Large,45SR
+AD1028,Amber,Medium,Dark Brown,Large,45SR
+AD1029,Amber,Medium,Dark Brown,Large,45SR
+AD1030,Amber,Medium,Dark Brown,Large,45SR
+AD1031,Amber,Medium,Dark Brown,Large,45SR
+AD1032,Amber,Medium,Dark Brown,Large,45SR
+AD1033,Amber,Medium,Dark Brown,Large,45SR
+QD1001,Saqi,High,Reddish Brown,Large,35SR
+QD1002,Saqi,High,Reddish Brown,Large,35SR
+QD1003,Saqi,High,Reddish Brown,Large,35SR
+QD1004,Saqi,High,Reddish Brown,Large,35SR
+QD1005,Saqi,High,Reddish Brown,Large,35SR
+QD1006,Saqi,High,Reddish Brown,Large,35SR
+QD1007,Saqi,High,Reddish Brown,Large,35SR
+QD1008,Saqi,High,Reddish Brown,Large,35SR
+QD1009,Saqi,High,Reddish Brown,Large,35SR
+QD1010,Saqi,High,Reddish Brown,Large,35SR
+QD1011,Saqi,High,Reddish Brown,Large,35SR
+QD1012,Saqi,High,Reddish Brown,Large,35SR
+QD1013,Saqi,High,Reddish Brown,Large,35SR
+QD1014,Saqi,High,Reddish Brown,Large,35SR
+QD1015,Saqi,High,Reddish Brown,Large,35SR
+QD1016,Saqi,High,Reddish Brown,Large,35SR
+QD1017,Saqi,High,Reddish Brown,Large,35SR
+QD1018,Saqi,High,Reddish Brown,Large,35SR
+QD1019,Saqi,High,Reddish Brown,Large,35SR
+QD1020,Saqi,High,Reddish Brown,Large,35SR
+QD1021,Saqi,High,Reddish Brown,Large,35SR
+QD1022,Saqi,High,Reddish Brown,Large,35SR
+QD1023,Saqi,High,Reddish Brown,Large,35SR
+QD1024,Saqi,High,Reddish Brown,Large,35SR
+QD1025,Saqi,High,Reddish Brown,Large,35SR
+QD1026,Saqi,High,Reddish Brown,Large,35SR
+QD1027,Saqi,High,Reddish Brown,Large,35SR
+QD1028,Saqi,High,Reddish Brown,Large,35SR
+QD1029,Saqi,High,Reddish Brown,Large,35SR
+QD1030,Saqi,High,Reddish Brown,Large,35SR
+QD1031,Saqi,High,Reddish Brown,Large,35SR
+QD1032,Saqi,High,Reddish Brown,Large,35SR
+QD1033,Saqi,High,Reddish Brown,Large,35SR
+QD1034,Saqi,High,Reddish Brown,Large,35SR
+QD1035,Saqi,High,Reddish Brown,Large,35SR
+QD1036,Saqi,High,Reddish Brown,Large,35SR
+QD1037,Saqi,High,Reddish Brown,Large,35SR
+QD1038,Saqi,High,Reddish Brown,Large,35SR
+QD1039,Saqi,High,Reddish Brown,Large,35SR
+QD1040,Saqi,High,Reddish Brown,Large,35SR
+QD1041,Saqi,High,Reddish Brown,Large,35SR
+QD1042,Saqi,High,Reddish Brown,Large,35SR
+QD1043,Saqi,High,Reddish Brown,Large,35SR
+QD1044,Saqi,High,Reddish Brown,Large,35SR
+QD1045,Saqi,High,Reddish Brown,Large,35SR
+QD1046,Saqi,High,Reddish Brown,Large,35SR
+QD1047,Saqi,High,Reddish Brown,Large,35SR
+WD1001,Safawi,Medium,Black,Medium,30SR
+WD1002,Safawi,Medium,Black,Medium,30SR
+WD1003,Safawi,Medium,Black,Medium,30SR
+WD1004,Safawi,Medium,Black,Medium,30SR
+WD1005,Safawi,Medium,Black,Medium,30SR
+WD1006,Safawi,Medium,Black,Medium,30SR
+WD1007,Safawi,Medium,Black,Medium,30SR
+WD1008,Safawi,Medium,Black,Medium,30SR
+WD1009,Safawi,Medium,Black,Medium,30SR
+WD1010,Safawi,Medium,Black,Medium,30SR
+WD1011,Safawi,Medium,Black,Medium,30SR
+WD1012,Safawi,Medium,Black,Medium,30SR
+WD1013,Safawi,Medium,Black,Medium,30SR
+WD1014,Safawi,Medium,Black,Medium,30SR
+WD1015,Safawi,Medium,Black,Medium,30SR
+WD1016,Safawi,Medium,Black,Medium,30SR
+WD1017,Safawi,Medium,Black,Medium,30SR
+WD1018,Safawi,Medium,Black,Medium,30SR
+WD1019,Safawi,Medium,Black,Medium,30SR
+WD1020,Safawi,Medium,Black,Medium,30SR
+WD1021,Safawi,Medium,Black,Medium,30SR
+WD1022,Safawi,Medium,Black,Medium,30SR
+WD1023,Safawi,Medium,Black,Medium,30SR
+WD1024,Safawi,Medium,Black,Medium,30SR
+WD1025,Safawi,Medium,Black,Medium,30SR
+JD5001,Ajwa,Low,Reddish Black,Medium,40SR
+JD5002,Ajwa,Low,Reddish Black,Small,40SR
+JD5003,Ajwa,Low,Reddish Black,Small,40SR
+JD5004,Ajwa,Low,Reddish Black,Small,40SR
+JD5005,Ajwa,Low,Reddish Black,Small,40SR
+JD5006,Ajwa,Low,Reddish Black,Small,40SR
+JD5007,Ajwa,Low,Reddish Black,Small,40SR
+JD5008,Ajwa,Low,Reddish Black,Small,40SR
+JD5009,Ajwa,Low,Reddish Black,Small,40SR
+JD5010,Ajwa,Low,Reddish Black,Small,40SR
+JD5011,Ajwa,Low,Reddish Black,Medium,40SR
+JD5012,Ajwa,Low,Reddish Black,Small,40SR
+JD5013,Ajwa,Medium,Reddish Black,Medium,30SR
+JD5014,Ajwa,Medium,Black,Small,30SR
+JD5015,Ajwa,Low,Reddish Black,Medium,30SR
+JD5016,Ajwa,Low,Black,Medium,30SR
+JD5017,Ajwa,Low,Reddish Black,Medium,30SR
+JD5018,Ajwa,Low,Reddish Black,Medium,30SR
+JD5019,Ajwa,Low,Reddish Black,Medium,30SR
+JD5020,Ajwa,Low,Reddish Black,Medium,30SR
+JD5021,Ajwa,Low,Reddish Black,Medium,30SR
+JD5022,Ajwa,Medium,Reddish Black,Medium,30SR
+JD5023,Ajwa,Medium,Reddish Black,Medium,30SR
+JD5024,Ajwa,Medium,Reddish Black,Medium,30SR
+JD5025,Ajwa,Low,Reddish Black,Small,60SR
+JD5026,Ajwa,Medium,Reddish Black,Small,60SR
+JD5027,Ajwa,Medium,Reddish Black,Small,60SR
+JD5028,Ajwa,Medium,Reddish Black,Small,60SR
+JD5029,Ajwa,Medium,Reddish Black,Small,60SR
+JD5030,Ajwa,Medium,Reddish Black,Small,60SR
+JD5031,Ajwa,Medium,Reddish Black,Medium,60SR
+JD5032,Ajwa,Low,Reddish Black,Medium,60SR
+JD5033,Ajwa,Low,Reddish Black,Small,60SR
+JD5034,Ajwa,Low,Reddish Black,Small,60SR
+JD5035,Ajwa,Low,Reddish Black,Medium,60SR
+JD5036,Ajwa,Low,Reddish Black,Small,60SR
+WD5001,Safawi,Medium,Reddish Black,Medium,30SR
+WD5002,Safawi,Medium,Reddish Black,Large,30SR
+WD5003,Safawi,Medium,Reddish Black,Small,30SR
+WD5004,Safawi,Medium,Reddish Black,Small,30SR
+WD5005,Safawi,Medium,Reddish Black,Medium,30SR
+WD5006,Safawi,Medium,Reddish Black,Medium,30SR
+WD5007,Safawi,Medium,Reddish Black,Medium,30SR
+WD5008,Safawi,Low,Reddish Black,Small,30SR
+WD5009,Safawi,Medium,Reddish Black,Medium,30SR
+WD5010,Safawi,Medium,Reddish Black,Medium,30SR
+WD5011,Safawi,Medium,Reddish Black,Large,30SR
+WD5012,Safawi,Medium,Reddish Black,Large,30SR
+SD5001,Shalabi,Medium,Reddish Brown,Small,20SR
+SD5002,Shalabi,Medium,Reddish Brown,Medium,20SR
+SD5003,Shalabi,Medium,Reddish Brown,Medium,20SR
+SD5004,Shalabi,Medium,Reddish Brown,Medium,20SR
+SD5005,Shalabi,Low,Brown,Medium,20SR
+SD5006,Shalabi,Medium,Reddish Brown,Large,20SR
+SD5007,Shalabi,Medium,Reddish Brown,Medium,20SR
+SD5008,Shalabi,Low,Reddish Brown,Medium,20SR
+SD5009,Shalabi,Medium,Reddish Brown,Medium,20SR
+SD5010,Shalabi,Low,Reddish Brown,Medium,20SR
+SD5011,Shalabi,Medium,Reddish Brown,Medium,20SR
+SD5012,Shalabi,Medium,Reddish Brown,Small,20SR
+ID5001,Rabiah,Medium,Brown,Medium,20SR
+ID5002,Rabiah,Low,Brown,Small,20SR
+ID5003,Rabiah,Low,Brown,Medium,20SR
+ID5004,Rabiah,Medium,Brown,Small,20SR
+ID5005,Rabiah,Medium,Brown,Medium,20SR
+ID5006,Rabiah,Medium,Brown,Medium,20SR
+ID5007,Rabiah,High,Brown,Medium,20SR
+ID5008,Rabiah,Medium,Brown,Medium,20SR
+ID5009,Rabiah,Low,Brown,Medium,20SR
+ID5010,Rabiah,Medium,Brown,Medium,20SR
+ID5011,Rabiah,Medium,Brown,Medium,20SR
+ID5012,Rabiah,Medium,Brown,Medium,20SR
+LD5001,Medjool,Medium,Brown,Large,50SR
+LD5002,Medjool,Medium,Brown,Medium,50SR
+LD5003,Medjool,Medium,Brown,Medium,50SR
+LD5004,Medjool,Medium,Brown,Medium,50SR
+LD5005,Medjool,Medium,Brown,Small,50SR
+LD5006,Medjool,Medium,Brown,Small,50SR
+LD5007,Medjool,Medium,Brown,Medium,50SR
+LD5008,Medjool,Low,Brown,Large,50SR
+LD5009,Medjool,Medium,Brown,Medium,50SR
+LD5010,Medjool,Low,Brown,Medium,50SR
+LD5011,Medjool,Medium,Brown,Medium,50SR
+LD5012,Medjool,Medium,Brown,Medium,50SR
+AD5001,Amber,Low,Reddish Brown,Medium,60SR
+AD5002,Amber,Medium,Reddish Brown,Medium,60SR
+AD5003,Amber,Low,Reddish Brown,Medium,60SR
+AD5004,Amber,Medium,Reddish Brown,Large,60SR
+AD5005,Amber,Low,Reddish Brown,Large,60SR
+AD5006,Amber,Low,Reddish Brown,Large,60SR
+AD5007,Amber,Low,Reddish Brown,Large,60SR
+AD5008,Amber,Low,Reddish Brown,Large,60SR
+AD5009,Amber,High,Reddish Brown,Large,60SR
+AD5010,Amber,High,Reddish Brown,Small,60SR
+AD5011,Amber,High,Reddish Brown,Large,60SR
+AD5012,Amber,Medium,Reddish Brown,Large,60SR
+QD5001,Saqi,Low,Golden Brown,Medium,30SR
+QD5002,Saqi,Medium,Golden Brown,Medium,30SR
+QD5003,Saqi,Medium,Golden Brown,Large,30SR
+QD5004,Saqi,Medium,Golden Brown,Medium,30SR
+QD5005,Saqi,Medium,Golden Brown,Large,30SR
+QD5006,Saqi,Medium,Golden Brown,Medium,30SR
+QD5007,Saqi,Medium,Golden Brown,Medium,30SR
+QD5008,Saqi,Low,Golden Brown,Small,30SR
+QD5009,Saqi,Medium,Golden Brown,Medium,30SR
+QD5010,Saqi,Medium,Golden Brown,Medium,30SR
+QD5011,Saqi,Medium,Golden Brown,Medium,30SR
+QD5012,Saqi,Medium,Golden Brown,Small,30SR

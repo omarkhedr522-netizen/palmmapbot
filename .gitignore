@@ -1,0 +1,23 @@
+# Virtual environment
+palm_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Database
+data/palms.db
+
+# Datasets
+dataset/images/
+dataset/labels/
+dataset/unlabeled/
+dataset/Palm Trees/
+
+# Trained models and outputs
+runs/
+
+# OS/editor files
+.vscode/
+.DS_Store
+Thumbs.db
