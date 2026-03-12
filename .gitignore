@@ -16,6 +16,7 @@ dataset/Palm Trees/
 
 # Trained models and outputs
 runs/
+output/
 
 # OS/editor files
 .vscode/
