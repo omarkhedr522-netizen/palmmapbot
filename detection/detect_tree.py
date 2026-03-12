@@ -1,7 +1,7 @@
 from ultralytics import YOLO
 
 class TreeDetector:
-    def __init__(self, model_path=r"runs\detect\runs\palm_tree_bootstrap3\weights\best.pt", confidence_threshold=0.5):
+    def __init__(self, model_path=r"models/palm_tree_detector.pt", confidence_threshold=0.25):
         self.model = YOLO(model_path)
         self.confidence_threshold = confidence_threshold
 
