@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # PalmMapBot
 
 PalmMapBot is a graduation project for MSA UNI **automatic palm tree detection, mapping, and tree-ID assignment**.
